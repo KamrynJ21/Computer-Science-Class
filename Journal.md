@@ -17,3 +17,7 @@ I learned how to use hashtags and quotation marks to create comments to either h
 # September 6th
 
 Today I mostly learned how to use the newly introduced color and fill color feature to make tracy use different colors along with how to make her utilize different pen sizes for coding as well as to draw pictures using shapes. I also redid the beaded project to make it colorful for Tracy's birthday. For the most part today was mostly a quality of life day for coding.
+
+# September 7th
+
+Today I made a bunch of different shapes using the advanced cirlce code along with function the end and begin fill, I also changed the background color in this project making it look like the example it told us to follow. Most of class today I was figuring out how to add a "glare" on the bubblewrap project
