@@ -21,3 +21,7 @@ Today I mostly learned how to use the newly introduced color and fill color feat
 # September 7th
 
 Today I made a bunch of different shapes using the advanced cirlce code along with function the end and begin fill, I also changed the background color in this project making it look like the example it told us to follow. Most of class today I was figuring out how to add a "glare" on the bubblewrap project
+
+# September 8th
+
+Today I spent most of class making a sidewalk purely out of squares. The trick was I could only use 16 lines of code it was a difficult challenge for sure but it was pretty fun. I realized not all shapes need the adv circle code but you can go back to the old ways of drawing shapes if youneed to. The hard part that I'll have to learn is the balance between the two.
