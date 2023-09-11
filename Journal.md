@@ -25,3 +25,7 @@ Today I made a bunch of different shapes using the advanced cirlce code along wi
 # September 8th
 
 Today I spent most of class making a sidewalk purely out of squares. The trick was I could only use 16 lines of code it was a difficult challenge for sure but it was pretty fun. I realized not all shapes need the adv circle code but you can go back to the old ways of drawing shapes if youneed to. The hard part that I'll have to learn is the balance between the two.
+
+# September 11th
+
+Today I learned how to use variables to easily increase add or decrease something using math operations. At first I was confused on the point of this and wasn't it just another version of functions but realized the potential it help and the importance of it. I ws stuck a while trying to figure out how to make shapes successfully get bigger while using the shapes but I finally figured it out bu using the radius along with math back to cack to increase then decrease for the shape then increase again.
