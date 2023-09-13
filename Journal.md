@@ -33,3 +33,7 @@ Today I learned how to use variables to easily increase add or decrease somethin
 # September 12th
 
 Today I used newly learned int and input code to reuse the previous nullseye code but change it to ask questions on what color it should be and then make Tracy respond with the color typed into the answer part. It was relatively easy I had to make some slight changes to fix it from the previous to the new code but it wasn't that bad. I made four corners using loops and the input with using user interaction, it was difficult then I remembered I did it before and just copied and pasted then edited with the newer things I've learned.
+
+# September 13th
+
+Today I learned about paramaters and how they can edit your code without having to make more lines. Using this newly learned information I made a catepillar that changed colors every circle without having to create seperate code thus saving time and space it also utilized talking to the audience and they decide the code. I made a circle inside a square using parameters that allows it to be even no matter what radius was put in, this took most of class I got stuck and had to consult the internet but then figured out the rest.
