@@ -37,3 +37,7 @@ Today I used newly learned int and input code to reuse the previous nullseye cod
 # September 13th
 
 Today I learned about paramaters and how they can edit your code without having to make more lines. Using this newly learned information I made a catepillar that changed colors every circle without having to create seperate code thus saving time and space it also utilized talking to the audience and they decide the code. I made a circle inside a square using parameters that allows it to be even no matter what radius was put in, this took most of class I got stuck and had to consult the internet but then figured out the rest.
+
+# September 14th
+
+Today I created a snowman that's circles were based off the user input but I made it so that no matter what size it would be it would still be even using parameters and creating them so that they bounce of off each other. I learned hown to utilize the i in a for i in rage code allowing me to be able to create different things by using the i itself as a variable to create different shapes and more later on.
