@@ -41,3 +41,7 @@ Today I learned about paramaters and how they can edit your code without having 
 # September 14th
 
 Today I created a snowman that's circles were based off the user input but I made it so that no matter what size it would be it would still be even using parameters and creating them so that they bounce of off each other. I learned hown to utilize the i in a for i in rage code allowing me to be able to create different things by using the i itself as a variable to create different shapes and more later on.
+
+# September 15th
+
+Today I learned how to further utilize the variables in the for i in range functions to increase decrease and set a type of parameter to stop a shape from going bigger than the number and increase in a radius a certain amount. I also used the newly learned variable to make wifi bars increase in radius each time.
