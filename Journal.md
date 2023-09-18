@@ -45,3 +45,7 @@ Today I created a snowman that's circles were based off the user input but I mad
 # September 15th
 
 Today I learned how to further utilize the variables in the for i in range functions to increase decrease and set a type of parameter to stop a shape from going bigger than the number and increase in a radius a certain amount. I also used the newly learned variable to make wifi bars increase in radius each time.
+
+# September 18th
+
+Today I learned how to use if staements to allow tracy to make decisions herself along with the help of the user. Like on every odd number switch the color to red and on every even switch it to black. It was very hard to figure out how to use these but I finally figured it out to create a smiley face that is only created if the user is happy.
