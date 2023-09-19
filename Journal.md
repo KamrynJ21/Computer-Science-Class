@@ -49,3 +49,7 @@ Today I learned how to further utilize the variables in the for i in range funct
 # September 18th
 
 Today I learned how to use if staements to allow tracy to make decisions herself along with the help of the user. Like on every odd number switch the color to red and on every even switch it to black. It was very hard to figure out how to use these but I finally figured it out to create a smiley face that is only created if the user is happy.
+
+# September 19th
+
+Today I made squares switch from black to white leaving the black squares filled and then white the white squares filled alternating using the if statement codes. I created a rating system that depending on the user's answer from 1-10 gave 1 of 3 different pictures either an x or straight line or checkmark. I reused the previously made smiley face and added the else statement to create a seperate line of code so if the users answered no it would instead create a sad face instead of nothing.
