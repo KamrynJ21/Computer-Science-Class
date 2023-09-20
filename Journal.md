@@ -53,3 +53,7 @@ Today I learned how to use if staements to allow tracy to make decisions herself
 # September 19th
 
 Today I made squares switch from black to white leaving the black squares filled and then white the white squares filled alternating using the if statement codes. I created a rating system that depending on the user's answer from 1-10 gave 1 of 3 different pictures either an x or straight line or checkmark. I reused the previously made smiley face and added the else statement to create a seperate line of code so if the users answered no it would instead create a sad face instead of nothing.
+
+# September 20th
+
+Today I learned about while loops which basically continue running the code until it becomes fals like draw a circle until the user says stop. I used the recently learned while loops to create a square that continued going without bypassing the radius of 350. I had to use github for help because I was stuck then remembered as I was reading their code that to create perfect squares you needed to go into the middle before moving out then the rest was easy. I also used the while loops to make the user guess a number if they were right tracy draws a checkmark if they were wrong Tracy instructs them to try again. I completed the lesson.
