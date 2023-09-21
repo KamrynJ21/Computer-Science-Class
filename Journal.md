@@ -57,3 +57,7 @@ Today I made squares switch from black to white leaving the black squares filled
 # September 20th
 
 Today I learned about while loops which basically continue running the code until it becomes fals like draw a circle until the user says stop. I used the recently learned while loops to create a square that continued going without bypassing the radius of 350. I had to use github for help because I was stuck then remembered as I was reading their code that to create perfect squares you needed to go into the middle before moving out then the rest was easy. I also used the while loops to make the user guess a number if they were right tracy draws a checkmark if they were wrong Tracy instructs them to try again. I completed the lesson.
+
+# September 21st
+
+Today I learned the last new command needed to finish out this chapter the clear() command. I also edited the previous guess the number code to also tell the user to go up or down comparing to my sevret number. It's not perfect but it does do everything asked so it works.
