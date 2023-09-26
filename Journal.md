@@ -61,3 +61,15 @@ Today I learned about while loops which basically continue running the code unti
 # September 21st
 
 Today I learned the last new command needed to finish out this chapter the clear() command. I also edited the previous guess the number code to also tell the user to go up or down comparing to my sevret number. It's not perfect but it does do everything asked so it works.
+
+# September 22nd
+
+I forgot to hit save
+
+# September 25th
+
+Absent
+
+# September 26th
+
+Tpday I created a circle pyramid that created a circle pyramid based on the user's input. To create this I used the previous block pyramid code and edited it to instead create the parameters for a circle than a square, it was complicated at some points but was still a fun challenge. I made a checkerboard that rotates between red and black and black and red per square per row, I did this by utilizing the black and white square assignment we did for the code to switch colors and edited it to make the squares needed then I went to the bubble wrap code to get the code for moving up a row then edited it to fit the parameters of my square wasn't too difficult since I basically already did the assignment without knowing. I finished the lesson.
