@@ -77,3 +77,7 @@ Tpday I created a circle pyramid that created a circle pyramid based on the user
 # September 27th
 
 I completed the entirety of Unit 2 finally. I got a final score of about a %72 there were some questions that I should've gotten right but confused myself or simply forgot for instance the radii in the for i in range code I forgot it can never surpass the highest number.
+
+# September 28th
+
+Today I took a small brain break I was being overloaded with the coding and was lost, so I took a mini break
