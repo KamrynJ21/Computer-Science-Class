@@ -80,4 +80,8 @@ I completed the entirety of Unit 2 finally. I got a final score of about a %72 t
 
 # September 28th
 
-Today I took a small brain break I was being overloaded with the coding and was lost, so I took a mini break
+Today I took a small brain break I was being overloaded with the coding, so I took a mini break
+
+# September 29th
+
+Today was a short lesson I learned what printng was and the basics that come along with it. I learned the importance of printing because it allows you to write messages to display accross the screen if I was creating something or wanted to show the users something.
