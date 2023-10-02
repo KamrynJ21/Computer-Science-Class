@@ -85,3 +85,7 @@ Today I took a small brain break I was being overloaded with the coding, so I to
 # September 29th
 
 Today was a short lesson I learned what printng was and the basics that come along with it. I learned the importance of printing because it allows you to write messages to display accross the screen if I was creating something or wanted to show the users something.
+
+# October 2nd 
+
+Today I learned all about variables not the ones previously learned but the integer variable, string variable, float variable. I then learned how to use all the variables to print different words and numbers using addition and multiplication.
