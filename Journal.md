@@ -89,3 +89,7 @@ Today was a short lesson I learned what printng was and the basics that come alo
 # October 2nd 
 
 Today I learned all about variables not the ones previously learned but the integer variable, string variable, float variable. I then learned how to use all the variables to print different words and numbers using addition and multiplication.
+
+# October 4th
+
+Today I learned more about user inputs and how you can code your python to react off of the users input using int, input, and print. For example I asked how old you are and depending on their answer my number went up by one to indicate what age they will be turning to.
