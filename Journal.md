@@ -93,3 +93,7 @@ Today I learned all about variables not the ones previously learned but the inte
 # October 4th
 
 Today I learned more about user inputs and how you can code your python to react off of the users input using int, input, and print. For example I asked how old you are and depending on their answer my number went up by one to indicate what age they will be turning to.
+
+# October 5th
+
+Today i learned about mathematical operators and how to use them in python coding. I used parameters and functions to create math equations using operators like +-/*//% to create equations to solve for my assignments.
