@@ -97,3 +97,7 @@ Today I learned more about user inputs and how you can code your python to react
 # October 5th
 
 Today i learned about mathematical operators and how to use them in python coding. I used parameters and functions to create math equations using operators like +-/*//% to create equations to solve for my assignments.
+
+# October 6th
+
+Today I learned about string operators and more about the rules to use them. I also figured out that you can use mathematical equations with words to increase or decrease the amount of times the code will read it and print it.
