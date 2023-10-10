@@ -101,3 +101,11 @@ Today i learned about mathematical operators and how to use them in python codin
 # October 6th
 
 Today I learned about string operators and more about the rules to use them. I also figured out that you can use mathematical equations with words to increase or decrease the amount of times the code will read it and print it.
+
+# October 9th
+
+No school
+
+# October 10th
+
+Today I finished lesson 3.5 on string operators. I finished the lesson with the final one being a recipe based on user input that would automatically multiply the total ounces needed for the meal when the servings went up or even putting the ingredients in for to start creating the recipe. 
