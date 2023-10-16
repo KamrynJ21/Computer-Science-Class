@@ -109,3 +109,7 @@ No school
 # October 10th
 
 Today I finished lesson 3.5 on string operators. I finished the lesson with the final one being a recipe based on user input that would automatically multiply the total ounces needed for the meal when the servings went up or even putting the ingredients in for to start creating the recipe. 
+
+# October 16th
+
+Today I finshed the comments section and was taught why it was so important and how you need to do it in every long piece of code so you won't be lost or confused in your own coding but be more organized. I also completed one of the two quizzes I have to do tomorrow I will complete the next one and that one will finish out the lesson.
