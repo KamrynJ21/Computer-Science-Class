@@ -113,3 +113,7 @@ Today I finished lesson 3.5 on string operators. I finished the lesson with the 
 # October 16th
 
 Today I finshed the comments section and was taught why it was so important and how you need to do it in every long piece of code so you won't be lost or confused in your own coding but be more organized. I also completed one of the two quizzes I have to do tomorrow I will complete the next one and that one will finish out the lesson.
+
+# October 17th
+
+I finished lesson 4 and watched the video on boolegeans
