@@ -117,3 +117,7 @@ Today I finshed the comments section and was taught why it was so important and 
 # October 17th
 
 I finished lesson 4 and watched the video on boolegeans
+
+# October 19th
+
+I finished lesson 4.1 a learned the basic on booleans and how they can basically be used to one command or skip a command if it's false. It's a pretty cool concept.
