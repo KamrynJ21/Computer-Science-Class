@@ -121,3 +121,7 @@ I finished lesson 4 and watched the video on boolegeans
 # October 19th
 
 I finished lesson 4.1 a learned the basic on booleans and how they can basically be used to one command or skip a command if it's false. It's a pretty cool concept.
+
+# October 23rd
+
+Today I finished lesson 4.2 and learned how booleans and if else statements go hand in hand and are important. I learned that if the boolean statement is true it'll print the if statement and if it was false it'll print the else statement I feel like I'm going to soon learn how to use user input to correlate but that's all I did today.
