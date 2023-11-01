@@ -122,10 +122,18 @@ I finished lesson 4 and watched the video on boolegeans
 
 I finished lesson 4.1 a learned the basic on booleans and how they can basically be used to one command or skip a command if it's false. It's a pretty cool concept.
 
-# October 27th
+# October 23rd
 
 Today I learned more in depth about Comparison Operators and how to use them along with the if elif and else statements they go hand in hand. Pretty cool stuff.
 
-# October 23rd
+# October 27th
 
 Today I finished lesson 4.2 and learned how booleans and if else statements go hand in hand and are important. I learned that if the boolean statement is true it'll print the if statement and if it was false it'll print the else statement I feel like I'm going to soon learn how to use user input to correlate but that's all I did today.
+
+# October 31st
+
+I was absent
+
+# November 1st
+
+Today I learned more about comparison operators and how to use them. On the assignment I used user input to ask for their age and based on their response it told them if they were old enough to vote or not. I also used comparison operators and user interferance to ask for any number and my code respond with it's positive, negative or if it was zero. The last thing I did was a reservation code and depending on the name they entered decided if I had their name or not.
