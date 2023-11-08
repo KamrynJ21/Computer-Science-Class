@@ -137,3 +137,7 @@ I was absent
 # November 1st
 
 Today I learned more about comparison operators and how to use them. On the assignment I used user input to ask for their age and based on their response it told them if they were old enough to vote or not. I also used comparison operators and user interferance to ask for any number and my code respond with it's positive, negative or if it was zero. The last thing I did was a reservation code and depending on the name they entered decided if I had their name or not.
+
+# November 8th
+
+Today I finished up my lesson with the project of making a fully functional simple bank where I ask the user to tell me whether they are withdrawing or depositing cash. If they give money I add it to the account if not it gets taking away and if they try to take more than they have it'll stop them and tell them they cannot do this. And if they type something that's not deposit or withdrawl the code will tell them it's an invalid transaction.
