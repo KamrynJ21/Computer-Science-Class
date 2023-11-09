@@ -141,3 +141,7 @@ Today I learned more about comparison operators and how to use them. On the assi
 # November 8th
 
 Today I finished up my lesson with the project of making a fully functional simple bank where I ask the user to tell me whether they are withdrawing or depositing cash. If they give money I add it to the account if not it gets taking away and if they try to take more than they have it'll stop them and tell them they cannot do this. And if they type something that's not deposit or withdrawl the code will tell them it's an invalid transaction.
+
+# November 9th 
+
+Today I finished the short lesson on logical operators and how to can chain codes together to create a series on booleans for the user to interact with the system and for it to respond according to it, pretty interesting stuff. Using this I made 3 different codes 1 asking if the user was a student teacher or administrator and telling them if they could have school keys. The 2nd and 3rd were basically combined to ask the user questions and based on their response would let the system know if they were eligible to run for presidency or not.
