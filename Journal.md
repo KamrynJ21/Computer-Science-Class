@@ -145,3 +145,6 @@ Today I finished up my lesson with the project of making a fully functional simp
 # November 9th 
 
 Today I finished the short lesson on logical operators and how to can chain codes together to create a series on booleans for the user to interact with the system and for it to respond according to it, pretty interesting stuff. Using this I made 3 different codes 1 asking if the user was a student teacher or administrator and telling them if they could have school keys. The 2nd and 3rd were basically combined to ask the user questions and based on their response would let the system know if they were eligible to run for presidency or not.
+
+#November 28th
+I finished lesson 2.5 tomorrow I do the quiz. Today'a lesson was learning how to tell python to round accurately the way you want it to.
