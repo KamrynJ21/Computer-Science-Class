@@ -148,3 +148,6 @@ Today I finished the short lesson on logical operators and how to can chain code
 
 #November 28th
 I finished lesson 2.5 tomorrow I do the quiz. Today'a lesson was learning how to tell python to round accurately the way you want it to.
+
+# November 29th 
+I finished the quiz and got 10/15 right I understand most of the lesson sometimes I get confused reading the code though. But all in all very good lesson.
