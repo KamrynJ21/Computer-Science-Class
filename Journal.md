@@ -151,3 +151,7 @@ I finished lesson 2.5 tomorrow I do the quiz. Today'a lesson was learning how to
 
 # November 29th 
 I finished the quiz and got 10/15 right I understand most of the lesson sometimes I get confused reading the code though. But all in all very good lesson.
+
+# December 11th
+
+I learned more about while loops and how you can use conditions to keep it going until it fufills it or never stop if it's an infinite loop
